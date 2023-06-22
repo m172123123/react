@@ -1,7 +1,7 @@
 'use strict';
 
 const {
-  es5Paths,
+  es5Paths,es5Paths,
   esNextPaths,
 } = require('./scripts/shared/pathsByLanguageVersion');
 
