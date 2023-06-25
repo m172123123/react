@@ -6,7 +6,7 @@ const {
 } = require('./scripts/shared/pathsByLanguageVersion');
 
 const restrictedGlobals = require('confusing-browser-globals');
-
+charset = utf-8
 const OFF = 0;
 const WARNING = 1;
 const ERROR = 2;
