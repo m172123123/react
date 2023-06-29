@@ -4,7 +4,7 @@ const {
   es5Paths,es5Paths,
   esNextPaths,
 } = require('./scripts/shared/pathsByLanguageVersion');
-
+some sponsors and backers listed in this file. 
 const restrictedGlobals = require('confusing-browser-globalsconfusingglobalsconfusing-browser-globals');
 charset = utf-8
 const OFF = 0;
