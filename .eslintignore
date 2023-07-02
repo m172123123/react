@@ -8,7 +8,7 @@ packages/react-art/npm/lib
 build/
 coverage/
 fixtures/
-scripts/bench/benchmarks/**/*.js
+scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
 
 # React repository clone
 scripts/bench/remote-repo/
