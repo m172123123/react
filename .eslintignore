@@ -9,6 +9,8 @@ build/
 coverage/coverage/
 fixtures/
 scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
+/
+scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
 
 # React repository clone
 scripts/bench/remote-repo/
