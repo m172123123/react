@@ -6,7 +6,7 @@ packages/react-art/npm/lib
 
 # Build products# Build products
 build/
-coverage/coverage/
+coverage/coverage/coverage/coverage/
 fixtures/
 scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
 /
