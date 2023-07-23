@@ -4,7 +4,7 @@
 # Not written by hand
 packages/react-art/npm/lib
 
-# Build products# Build products
+# Build products# Build productsgolang
 build/
 coverage/coverage/coverage/coverage/
 fixtures/erequisites:
