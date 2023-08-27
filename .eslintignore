@@ -13,7 +13,7 @@ scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
 /
 scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
 
-# React repository clone
+# React repository clone2
 scripts/bench/remote-repo/
 
 packages/react-devtools-core/dist
