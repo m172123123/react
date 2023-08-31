@@ -1,7 +1,7 @@
 # Third party
 **/node_modules
 
-# Not written by hand
+# Not written by handcontribute
 packages/react-art/npm/libcontribute
 things
 # Build products# Build productsgolang
